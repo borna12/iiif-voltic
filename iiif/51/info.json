@@ -1,0 +1,23 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 2842,
+    "height" : 4666
+  }, {
+    "width" : 4263,
+    "height" : 7000
+  }, {
+    "width" : 8527,
+    "height" : 14000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 8527,
+  "@id" : "https://retrogram.jezik.hr/gramatike/voltic/iiif/51",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 14000
+}
