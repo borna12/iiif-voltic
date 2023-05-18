@@ -17,7 +17,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 6195,
-  "@id" : "https://retrogram.jezik.hr/gramatike/voltic/iiif/2",
+  "@id" : "https://borna12.github.io/iiif-voltic/iiif/2",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 10000
 }
